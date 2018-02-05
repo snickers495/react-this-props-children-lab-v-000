@@ -1,5 +1,5 @@
 // Code ThemedDecoration Component Here
-import ThemedDecoration from 'react';
+import React from 'react';
 export default class ThemedDecoration extends React.Component {
   render(){
     const childrenWithExtraProp = React.Children.map(this.props.children, child => {
