@@ -9,7 +9,7 @@ export default class ThemedDecoration extends React.Component {
     });
     return(
       <div>
-      
+        {childrenWithExtraProp}
       </div>
     )
   }
