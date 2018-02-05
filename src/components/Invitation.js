@@ -1,2 +1,3 @@
 // Code Invitation Component Here
-import ""
+import React from 'react';
+export default class React extends 
