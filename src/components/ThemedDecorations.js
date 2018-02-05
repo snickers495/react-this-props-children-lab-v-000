@@ -1,5 +1,5 @@
 // Code ThemedDecoration Component Here
-import React from 'react';
+import ThemedDecoration from 'react';
 export default class React extends React.Component {
   render(){
     return(
